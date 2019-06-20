@@ -1,5 +1,5 @@
 [requires]
-botan/2.7.0@bincrafters/stable
+botan/2.8.0@bincrafters/stable
 
 [options]
 
